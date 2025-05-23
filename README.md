@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Luiz Felipe Hamud</h1>
+<h3 align="center">Fullstack Developer | Geek | API Enthusiast</h3>
 
-<!--
-**4C75697A20416D7564/4C75697A20416D7564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 💻 Working with **JavaScript, TypeScript, Node.js, SQL, NoSQL, HTML, CSS, Bootstrap, Handlebars**
+- 🌱 Currently learning **Python** and exploring more about **mobile development** (Swift & Kotlin)
+- ⚡ "O impossível só é impossível enquanto ninguém alcançou."
+- 🚀 I contribute to **open source** whenever I can, mostly creating **APIs** in Node.js and Python.
+- 📂 **Featured Project**: [AutoHouse](#) — a dealership management system.
+- 🛠️ Tools: VS Code & JetBrains IntelliJ IDEA Suite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/luiz-felipe-hamud/)
+
+---
+
+![Luiz Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-felipe-hamud&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-felipe-hamud&layout=compact&theme=radical)
+
+---
+
